@@ -1,0 +1,36 @@
+.fondo-1{
+	background-image: url("3 revex/header/header-bg.png");
+	background-size: cover;
+	background-position:bottom;
+
+
+}
+.text-pink{
+	color: rgb(165, 42, 165);
+	font-weight: bold;
+	
+}
+.circle{
+	border-radius:100%;
+	width: 60%;
+	height: 60%;
+}
+.card-img-top{
+	width: 70px;
+}
+.boton__degrade{
+	background: #dc3546ea;
+}
+
+.text-size{
+	font-size: 15px;
+}
+.text-contenido{
+	font-size: 15px;
+	font-family: serif;
+
+}
+.bg-footer{
+	background-image: url("3 Revex/footer/footer.svg");
+	
+}
